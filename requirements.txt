@@ -1,0 +1,6 @@
+pyexiftool==0.4.13
+requests
+pillow
+dotenv
+pandas
+folium

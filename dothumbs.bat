@@ -1,0 +1,1 @@
+python generate_gallery_with_thumbs.py

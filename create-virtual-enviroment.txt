@@ -1,0 +1,2 @@
+rem Create a virtual enviornment for the project
+python3 -m venv venv
