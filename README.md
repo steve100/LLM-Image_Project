@@ -120,6 +120,9 @@ PreLoaded with 1 image
 ./images
 ./images/thumbs
 
+Preloaded with an example map image 
+example-map.png
+
 
 output:
 Retained for reading.  Will be regenerated with your own images.
