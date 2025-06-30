@@ -96,8 +96,9 @@ These programs will create two files captions*
 
 ```
 
+
+## Draw and Display A map
 ```
-Draw and Display A map
 domap.bat
 This program will create an index.html
 ```
