@@ -73,6 +73,12 @@ Make sure the Python Virtual Environment is installed correctly.
 
 Put your API_key and LLM information into the Python .env file
 edit .env
+It needs to look like this:
+OPENAI_API_KEY=yourkeyhere
+
+
+API_URL_LOCAL = "http://localhost:1234/v1/chat/completions"
+API_URL_OPENAI = "https://api.openai.com/v1/chat/completions"
 ```
 
 ## Usage:
@@ -122,6 +128,9 @@ PreLoaded with 1 image
 
 Preloaded with an example map image 
 example-map.png
+
+Preloaded with an example Task Manager Image
+Windows-iGPU-Performance.png
 
 
 output:
