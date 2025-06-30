@@ -21,7 +21,7 @@ Disapointed by the local descriptions. However these are small-ish 7b models.
 
 ## Pre-Configuration
 
-``
+```
 Choose an OS
   Windows 11 currently works better at running models with any program I have found than Linux for non-NVIDIA graphics cards.
 
@@ -55,7 +55,7 @@ Configure it to accept API Requests
    Images used to be far more expensive than they are today
    Still - if will process a lot of images - locally is the way to go.
    48 images  / 30,000 input tokens / 24 images it cost  $0.08 with model "gpt-4o" 
-
+```
 
 ## Configuration:
 
@@ -83,9 +83,9 @@ Opional
 ```
 
 ## Read the Images:
-``
+```
 doreadimages.bat
-``
+```
 
 ## Send the Images to an LLM
 ```
