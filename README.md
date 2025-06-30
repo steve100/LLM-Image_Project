@@ -103,16 +103,17 @@ This program will create an index.html
 
 Python Code:
 
-``generate_gallery_with_thumbs.py
+```
+generate_gallery_with_thumbs.py
 read_fromimage_metadata.py
 description_via_local.py
 description_via_openai.py
 draw-map-image-metadata.py
-``
+```
 
 ##Support Files and directories
 
-``
+```
 PreLoaded with 1 image
 ./images
 ./images/thumbs
@@ -133,4 +134,4 @@ Errata:
    The .env could have image and output directories.
    The .csv could have a unique time stamp to avoid overwriting.
 
-``
+```
