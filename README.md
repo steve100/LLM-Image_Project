@@ -88,13 +88,13 @@ doreadimages.bat
 ``
 
 ## Send the Images to an LLM
-``
+```
 dodescription-local.bat
 dodescription-openai.bat
 
 These programs will create two files captions*
 
-``
+```
 
 Draw and Display A map
 domap.bat
