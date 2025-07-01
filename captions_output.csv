@@ -1,3 +1,17 @@
 Image Filename,Caption
-pittsboro_museum.jpg,"
-This image showcases a beautiful view of an old brick church with a steeple and a clock on the front. The church is set against a blue sky, adding to its charm. On the road near the church, there are two cars and a large truck passing by. Additionally, there are three people in the scene, possibly walking or standing close to the church. The combination of the picturesque church and the activity on the road create an interesting juxtaposition between the serene atmosphere and the hustle and bustle of everyday life."
+pittsboro_museum.jpg,"ERROR: API error (404): {
+    ""error"": {
+        ""message"": ""No models loaded. Please load a model in the developer page or use the `lms load` command."",
+        ""type"": ""invalid_request_error"",
+        ""param"": ""model"",
+        ""code"": ""model_not_found""
+    }
+}"
+StBartsSign.png,"ERROR: API error (404): {
+    ""error"": {
+        ""message"": ""No models loaded. Please load a model in the developer page or use the `lms load` command."",
+        ""type"": ""invalid_request_error"",
+        ""param"": ""model"",
+        ""code"": ""model_not_found""
+    }
+}"
